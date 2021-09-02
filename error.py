@@ -1,4 +1,4 @@
-num = int(input("Gove me a numbe: "))
+num = int(input("Give me a number: "))
 print(num)
 
 while True:
