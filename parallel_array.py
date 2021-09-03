@@ -1,4 +1,4 @@
-from Is_Num import is_num
+from is_num import is_num
 
 name = []
 age = []

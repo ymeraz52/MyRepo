@@ -1,4 +1,4 @@
-from Is_Num import is_num
+from is_num import is_num
 
 x = is_num("Give me a number: ")
 print(x)
